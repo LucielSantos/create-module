@@ -1,0 +1,17 @@
+{
+  "name": "@lucielvitorbs/create-component",
+  "version": "1.0.0",
+  "description": "Ferramenta CLI para a criação de componentes react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "create-component": "./bin/index.js"
+  },
+  "dependencies": {}
+}
